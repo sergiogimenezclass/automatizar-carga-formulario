@@ -1,0 +1,4 @@
+estado,fecha,detalle,modulo
+Funcional/Terminado,2026-06-18,"Se completó la pantalla principal del formulario y se automatizó el flujo base.",Backend
+En etapa de pruebas/Debugeo,2026-06-19,"Se ajustan selectores del formulario y validación de campos obligatorios.",UI/UX
+Bloqueado por dependencias,2026-06-20,"Pendiente acceso a la API externa para cerrar la integración.",Integración de APIs
